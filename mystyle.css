@@ -30,18 +30,32 @@ main h5{
     display: flex;
     justify-content:center;
 }
+/* women jackets */
+
 .jacket-1{
-    width:75%;
+    width:100%;
 }
 .jacket-2{
-    width:68%;
+    width:74.5%;
+
 }
-.woman-jacket-3{
-    width:90.5%;
+/* Man jackets */
+
+.jacket-3{
+    width:82%;
 }
-.man-jacket-3{
-    width:94%;
+
+.jacket-4{
+    width:75%;
 }
+.jacket-5{
+    width:95%;
+}
+
+.jacket-6{
+    width:69%;
+}
+
 .border-radius{
     border-radius:1em;
 }
@@ -52,9 +66,10 @@ main h5{
     background-image: linear-gradient(90deg, tomato, lightsalmon);
 }
 #contact{
-    background-color: #7bb4bd;
+    background-color: #faf8f8;
     height: 600px;
     border-radius:20px;
+    
 }
 .fa-youtube{
     color: #f00;
